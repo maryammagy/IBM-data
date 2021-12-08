@@ -29,6 +29,7 @@ for (k in diseases){
       n[j]=1
       }else{
         n[j]=0
+      m+=1
         }
   }
   m=rbind(m,n)
